@@ -11,3 +11,11 @@ https://soundcloud.com/eee298deeplearning
 Link to Results:
 https://drive.google.com/open?id=1e5-mZzr2t0CrSoa-7Ql5LjKFcIKiCXXz
 
+
+To run: 
+
+1. Install Dependencies
+2. Download Dataset
+3. Run process_audio.py
+4. Train with cyclegan.py
+5. To synthesize data, run synthesizer.py
